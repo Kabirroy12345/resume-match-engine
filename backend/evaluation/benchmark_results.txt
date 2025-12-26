@@ -1,0 +1,36 @@
+--- TF-IDF (Baseline) Results ---
+Spearman Correlation: 0.7438
+Mean Squared Error:   0.2213
+------------------------------
+--- SBERT (Our Model) Results ---
+Spearman Correlation: 0.8400
+Mean Squared Error:   0.0384
+------------------------------
+--- Hybrid (a=0.3, b=0.7) Results ---
+Spearman Correlation: 0.8354
+Mean Squared Error:   0.0574
+------------------------------
+--- TF-IDF (Baseline) Results ---
+Spearman Correlation: 0.7438
+Mean Squared Error:   0.2213
+------------------------------
+--- SBERT (Our Model) Results ---
+Spearman Correlation: 0.8400
+Mean Squared Error:   0.0384
+------------------------------
+--- Hybrid (a=0.3, b=0.7) Results ---
+Spearman Correlation: 0.8354
+Mean Squared Error:   0.0574
+------------------------------
+--- TF-IDF (Baseline) Results ---
+Spearman Correlation: 0.9453
+Mean Squared Error:   0.1062
+------------------------------
+--- SBERT (Our Model) Results ---
+Spearman Correlation: 0.8922
+Mean Squared Error:   0.0572
+------------------------------
+--- Hybrid (a=0.3, b=0.7) Results ---
+Spearman Correlation: 0.9344
+Mean Squared Error:   0.0383
+------------------------------
